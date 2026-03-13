@@ -1,0 +1,7 @@
+2026-02-27 10:21:45.953255 - KILLED: chrome.exe | CPU: 109.5% RAM: 3.1907351601441856%
+Wed Mar  4 15:09:54 2026 - Successful login
+Wed Mar  4 15:13:02 2026 - Failed login attempt
+Wed Mar  4 15:13:04 2026 - Failed login attempt
+Wed Mar  4 15:13:08 2026 - Failed login attempt
+Wed Mar  4 15:13:56 2026 - Successful login
+Wed Mar  4 15:18:07 2026 - Successful login
